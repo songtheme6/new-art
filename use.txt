@@ -1,0 +1,5 @@
+This artifact performs PIR on a database of randomly generated data.
+The user can specify the size of the database and the size of each record and which protocol to use.
+The artifact also runs and benchmarks other protocols in the literature for comparison.
+The artifact provides the necessary scripts to reproduce the results in the paper.
+It has not been audited for side-channel resistance and should not be used in production.

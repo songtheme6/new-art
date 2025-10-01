@@ -1,0 +1,6 @@
+The raw logs of the evaluation are available in `artifact/evaluation/results`.
+The human-readable tables are available in `artifact/evaluation/figures/all`.
+
+The generated tables can be compared with Table 2 in the paper.
+Note that the artifact only generated the results for a 1 GB database, to allow for a reasonable runtime.
+It will take about 8 hours to run the simplified version of the experiments.

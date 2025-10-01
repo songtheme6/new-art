@@ -1,0 +1,5 @@
+For a scaled down version of the evaluation, you can use the following instance type:
+* r6i.xlarge
+
+For a full version of the evaluation, we recommend the following instance type:
+* r6i.16xlarge

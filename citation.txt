@@ -1,0 +1,11 @@
+@inproceedings{inspire2026,
+  author={Akhavan Mahdavi, Rasoul and Patel, Sarvar and Seo, Joon Young and Yeo, Kevin},
+  booktitle={2026 IEEE Symposium on Security and Privacy (SP)}, 
+  title={InsPIRe: Communication-Efficient PIR with Server-side Preprocessing}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={},
+  keywords={},
+  doi={}
+}

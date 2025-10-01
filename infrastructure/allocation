@@ -1,0 +1,7 @@
+You will need to log in using an AWS account with access to EC2 instances.
+AVX512 is necessary to build the project, which is available on r6i instances in AWS.
+
+To perform the experiments in full, we recommend at least 512 GB of RAM.
+For a scaled down version of the evaluation, you can use an instance with only 32 GB of RAM.
+
+See the `resources` file for specific instance types we recommend.

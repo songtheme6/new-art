@@ -1,0 +1,5 @@
+The raw logs of the evaluation are available in `artifact/evaluation/results/inspire`.
+The human-readable tables are available in `artifact/evaluation/figures/inspire`.
+This table can be compared with Figure 2 of the paper.
+
+It will take about 1 hour to run the simplified version of the experiments.

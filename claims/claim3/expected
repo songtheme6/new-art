@@ -1,0 +1,10 @@
+The raw logs of the evaluation of InsPIRe for applications are available in `artifact/evaluation/results/application-experiments`.
+
+The following logs are used in Table 3:
+`artifact/evaluation/results/application-experiments/peer-routing.json`
+`artifact/evaluation/results/application-experiments/prov-adv-inspire-bins=${bins}.json`
+`artifact/evaluation/results/application-experiments/bitswap-${dim0}.json`
+
+The following logs are used in Table 4:
+`artifact/evaluation/results/application-experiments/device-enrollment-num=${NUM_ITEMS}-dim=${dim0}.json`
+`artifact/evaluation/results/application-experiments/device-enrollment-num=${NUM_ITEMS}-simplepir.json`
